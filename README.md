@@ -41,7 +41,7 @@ Adjustable delay settings to ensure smooth operation without hitting Google's ra
 ### Installation
 **Download Extension:**  
 [Google Chrome Web Store](https://chromewebstore.google.com/detail/bienlomhfnhbhpnpddpobkahjmegmhob?utm_source=item-share-cb)
-<img width="1130" height="215" alt="image" src="assest/2.png" />
+<img width="1130" height="215" alt="image" src="https://autoplaylabs.com/projects/" />
 
 1. Install the extension from the [Chrome Web Store](https://chromewebstore.google.com/detail/bienlomhfnhbhpnpddpobkahjmegmhob?utm_source=item-share-cb).
 2. Pin the **Flow Automator** icon to your Chrome toolbar for quick access.
