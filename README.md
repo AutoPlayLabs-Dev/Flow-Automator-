@@ -88,7 +88,7 @@ In the **Motion Prompt** field, enter specific instructions for how the scene sh
 * **Complex Scenes:** When using Scene Builder, ensure your prompts are descriptive but compatible with the model (Veo 2/3.1).
 
 ## ⚖️ Disclaimer
-1. Affiliation
+### 1. Affiliation
 **Flow Automator** is an independent, community-developed open-source project. It is **not** affiliated with, authorized, maintained, sponsored, or endorsed by **Google**, **Google Labs**, or any of its affiliates. All product and company names are the registered trademarks of their original owners.
 
 ### 2. Terms of Service
