@@ -55,7 +55,7 @@ To allow the **Auto-Download** feature to work without repetitive "Save As" pop-
 
 ## 📖 How to Use:
 
-## Transform your static images into cinematic videos by following these five simple steps.Flow Automator supports text to video and image to video at the same time.
+Transform your static images into cinematic videos by following these five simple steps.Flow Automator supports text to video and image to video at the same time.
 
 
 ### Step 1: Initialize Your Project
