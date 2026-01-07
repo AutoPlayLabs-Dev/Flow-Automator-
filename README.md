@@ -104,4 +104,8 @@ The developer of Flow Automator is not responsible for:
 
 Use this tool at your own risk. This software is provided "as is," without warranty of any kind, express or implied. Always monitor your automation sessions to ensure they are performing as expected.
 
+## 🔗 Links
+- **Chrome Web Store:** [Flow Automator](https://chromewebstore.google.com/detail/bienlomhfnhbhpnpddpobkahjmegmhob?utm_source=item-share-cb)
+- **Tutorial Video:** [Watch on YouTube](https://www.youtube.com/watch?v=1qEw8zy3TkY)
 ---
+*Maintained by AutoPlayLabs*
